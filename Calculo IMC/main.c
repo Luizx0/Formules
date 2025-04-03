@@ -22,7 +22,7 @@ int main()
 
     if (sexo = 1){
       if (imc >= 40)
-        printf("\nObesidade Mórbida");
+        printf("\nObesidade Morbida");
     else if (imc > 30 && imc <= 39.9)
         printf("\nObesidade Moderada");
     else if (imc > 25 && imc <= 29.9)
@@ -34,7 +34,7 @@ int main()
     }
         else if (sexo = 2){
        if (imc >= 39)
-        printf("\nObesidade Mórbida");
+        printf("\nObesidade Morbida");
     else if (imc > 29 && imc <= 38.9)
         printf("\nObesidade Moderada");
     else if (imc > 24 && imc <= 28.9)
